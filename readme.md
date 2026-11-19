@@ -5,9 +5,7 @@
 
 # 👋 Kopisanangan, I'm jeremy!
 
-I am a **Software Engineering** graduate passionate about building reliable, user-centric web and cross-platform applications. My focus is on writing clean, modular code and designing practical systems—ranging from offline-first progressive web apps to responsive business tools and enterprise software modules. 
-
-As I continue growing as a developer, I enjoy exploring system architecture, refining UI/UX details, and turning complex workflows into straightforward digital solutions.
+I am a **Software Engineering** graduate passionate about building reliable, user-centric web and cross-platform applications. As I continue growing being a developer, I enjoy exploring system architecture, refining UI/UX details and turning complex workflows into straightforward digital solutions.
 
 ---
 
@@ -35,6 +33,6 @@ As I continue growing as a developer, I enjoy exploring system architecture, ref
 
 ## 🎯 Current Focus
 
-* **Offline-First & Cross-Platform Development:** Building responsive web and mobile experiences with **Flutter**, **Dart**, and local relational storage (**SQLite / Drift**) synced with **Firebase**.
+* **Offline-First & Cross-Platform Development:** Building responsive web and mobile experiences with **Flutter**, **Dart** and local relational storage (**SQLite / Drift**) synced with **Firebase**.
 * **Clean Architecture & Modularity:** Applying SOLID and DRY principles to structure maintainable front-end and back-end codebases.
-* **UI/UX Polish:** Crafting intuitive layouts, smooth interactions, and accessible interfaces across desktop and mobile screens.
+* **UI/UX Polish:** Crafting intuitive layouts, smooth interactions and accessible interfaces across desktop as well as mobile screens.
