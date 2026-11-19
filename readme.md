@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;Cross-Platform+%26+Web+Developer;Building+Clean%2C+Offline-First+Apps" alt="Typing SVG" />
 </div>
 
-# 👋 Hi, I'm jeremy!
+# 👋 Kopisanangan, I'm jeremy!
 
 I am a **Software Engineering** graduate passionate about building reliable, user-centric web and cross-platform applications. My focus is on writing clean, modular code and designing practical systems—ranging from offline-first progressive web apps to responsive business tools and enterprise software modules. 
 
@@ -11,7 +11,7 @@ As I continue growing as a developer, I enjoy exploring system architecture, ref
 
 ---
 
-## 🛠️ Languages, Frameworks & Tools
+## 🛠️ Skills I've learnt so far
 
 <p>
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter">
